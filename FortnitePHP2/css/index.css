@@ -1,0 +1,133 @@
+		section {
+			width:80%;
+			height: auto;
+			background-color:white;
+			text-align:center;
+			margin-left:10%;
+			margin-right:10%;
+			margin-top: 5%;
+			background-color : rgba(255, 255, 255, 0.8);
+			border:solid #4D006A 5px;
+		}
+		/*Titre*/
+		h1 {
+			color:#4D006A;
+			font-size:2em;
+			outline:solid #4D006A 5px;
+			padding-top: 8px;
+			width: 40%;
+			margin: auto;
+			margin-bottom: 5%;
+		}
+
+		h2 {
+			color:#4D006A;
+		}
+		h3 {
+			color:#4D006A;
+		}
+
+		img {
+			width: 50%;
+			height: auto;
+		}
+
+		body {
+			font-family:Josefin Sans;
+			font-size: 1.5em;
+			text-align: center;
+			background-image: url("https://d31wv1uuljiv5e.cloudfront.net/fn/item/FortniteBackground-1920x1102-fd3881826c54212b1414f823a4e0b91a.png");
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			margin:0;
+		}
+
+		strong {
+			color:#4D006A;
+			font-size: 1.1em;
+		}
+
+		#lienEpicgames {
+			text-decoration: none;
+			color: #4D006A;
+		}
+/*Barre de nav*/
+		.navbar-light .navbar-nav .nav-link {
+			    color: rgba(0,0,0,1);
+			    margin-left: 20px;
+			}
+
+		.navbar-light .navbar-nav .nav-link:hover {
+			background-color: #4D006A;
+			border-radius: 10px;
+			color: white;
+		}
+
+		.dropdown-item:hover{
+			background-color: #4D006A;
+			color: white;
+		}
+
+		#banniere {
+			width:50px;
+			height: auto;
+		}
+		
+		
+/*fin barre de nav	*/
+/*Page modeSurvie*/
+
+		/*Tableau de difficultés*/
+
+		.difficult {
+			font-weight: bold;
+			border: solid #4D006A;
+			position:relative;
+			width:13%;
+			margin:auto;
+			border-radius: 5px;
+			background-color:rgb(50,50,50);
+		}
+
+		.difficult li {
+			left:0;
+			text-align: left;
+		}
+		/*Tableau des icones de mode de jeu*/
+
+		.tableau {
+			border:solid #4D006A 3px;
+			width:90%;
+			height: auto;
+			margin:auto;
+			font-size: 0.7em;
+		}
+
+		.tdBorder {
+			border:solid #4D006A 2px;
+		}
+
+		#conseil {
+			text-decoration: underline;
+		}
+
+
+		#tabletitle {
+			text-align: center;
+		}
+
+		.imgTab {
+			width: 100%;
+		}
+
+		/*Fin tableau*/
+/*Pied de page*/
+		
+		footer {
+			margin-bottom: 0;
+			padding: 20px;
+		}
+
+		footer p {
+			margin-bottom: 0;
+		}
